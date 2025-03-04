@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Ke Jiang (蒋珂)"
   pronouns         : # example: "she/her"  
-  bio              : # "Nanjing University of Aeronautics and Astronautics / Osaka University"
-  location         : "Nanjing (China) / Osaka (Japan)"
-  employer         : "Nanjing University of Aeronautics and Astronautics / Osaka University"
+  bio              : "Nanjing University of Aeronautics and Astronautics / Osaka University"
+  location         : "Nanjing / Osaka"
+  employer         : # "Nanjing University of Aeronautics and Astronautics / Osaka University"
   uri              : # URL
   email            : "ke_jiang@nuaa.edu.cn" 
 
