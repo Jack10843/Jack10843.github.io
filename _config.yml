@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ke Jiang (蒋珂)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Nanjing University of Aeronautics and Astronautics / Osaka University"
+  location         : "Nanjing (China) / Osaka (Japan)"
+  employer         : "Nanjing University of Aeronautics and Astronautics / Osaka University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ke_jiang@nuaa.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
