@@ -31,7 +31,7 @@ News
 ======
  - From 14 April, 2025, I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), [The University of Osaka](https://www.osaka-u.ac.jp/en). My academic advisor here is Prof. [Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/index.html).
 
-Project Experiments
+Project Experiecne
 ======
  - A Research on Offline Reinforcement Learning Methods and Theories on Complex Real-world Scenarios (National Natural Science Foundation of China, No.6247072715, Leader: [Xiaoyang Tan](https://parnec.nuaa.edu.cn/xtan/)).
 
