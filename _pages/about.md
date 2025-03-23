@@ -17,7 +17,7 @@ Research Interests
 ======
  - Offline reinforcement learning
  - Reinforcement learning
- - (Robust \& Generalizable) Machine learning
+ - (Robust & Generalizable) Machine learning
  - Computer vision
 
 Publications
