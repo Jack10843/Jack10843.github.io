@@ -22,10 +22,10 @@ Research Interests
 
 Publications
 ======
- - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. IEEE International Conference on Multimedia & Expo (ICME), 2025.
- - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 2024, 508-522.
- - **Jiang K**, Yao J, Tan X. Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning. Advances in Neural Information Processing Systems (NeurIPS), 2023, 36.
- - Shen J, **Jiang K**, Tax X. Boundary Data Augmentation for Offline Reinforcement Learning. ZTE Communications, 2023, 21(3): 29.
+ - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, 2025.
+ - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2024, 508-522.
+ - **Jiang K**, Yao J, Tan X. Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning. *Advances in Neural Information Processing Systems (NeurIPS)*, 2023, 36.
+ - Shen J, **Jiang K**, Tax X. Boundary Data Augmentation for Offline Reinforcement Learning. *ZTE Communications*, 2023, 21(3): 29.
 
 News
 ======
