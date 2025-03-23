@@ -39,6 +39,6 @@ Preprints
 ======
  - **Jiang K**, Jiang W, Yao L, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning.
  - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
- - Qiu L, **Jiang K**, Tan X. Contrastive Desensitization Learning for Cross Domain Face Forgery Detection.
+ - †Qiu L, **†Jiang K**, Tan X. Contrastive Desensitization Learning for Cross Domain Face Forgery Detection.
  - **†Jiang K**, †Jiang W, Tan X. Variational *** Learning (under double-blind reviewing).
  - **Jiang K**, Tan X. Towards *** Control (under double-blind reviewing).
