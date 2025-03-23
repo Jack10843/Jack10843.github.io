@@ -16,8 +16,8 @@ Education
 Research Interests
 ======
  - Offline reinforcement learning
- - Machine learning
- - Dynamical systems
+ - Reinforcement learning
+ - (Robust \& Generalizable) Machine learning
  - Computer vision
 
 Publications
