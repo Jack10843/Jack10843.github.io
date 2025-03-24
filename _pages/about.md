@@ -47,7 +47,7 @@ Preprints
 
 Talks
 ======
-Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Conference of Beijing)
+Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing)
 
 Academic Activities
 ======
