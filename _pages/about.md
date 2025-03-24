@@ -10,8 +10,8 @@ redirect_from:
 News
 ======
  - From 14 April, 2025, I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), [The University of Osaka](https://www.osaka-u.ac.jp/en). My academic advisor here is Prof. [Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/index.html).
- - Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment] has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
- - Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning] has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
+ - Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment]() has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
+ - Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf) has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
 
 Education
 ======
