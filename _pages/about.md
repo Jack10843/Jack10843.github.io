@@ -45,6 +45,10 @@ Preprints
  - **†Jiang K**, †Jiang W, Tan X. Variational *** Learning (under double-blind review).
  - **Jiang K**, Tan X. Towards *** Control (under double-blind review).
 
+Talks
+======
+Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Conference of Beijing)
+
 Academic Activities
 ======
  - Reviewer of ICME 2025.
