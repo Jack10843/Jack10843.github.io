@@ -45,6 +45,10 @@ Preprints
  - **†Jiang K**, †Jiang W, Tan X. Variational *** Learning (under double-blind reviewing).
  - **Jiang K**, Tan X. Towards *** Control (under double-blind reviewing).
 
+Academic Activities
+======
+ - Reviewer of ICME 2025.
+
 Hobbies
 ======
 Fitness, Food, Traveling
