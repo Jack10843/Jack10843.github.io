@@ -42,3 +42,7 @@ Preprints
  - †Qiu L, **†Jiang K**, Tan X. Contrastive Desensitization Learning for Cross Domain Face Forgery Detection.
  - **†Jiang K**, †Jiang W, Tan X. Variational *** Learning (under double-blind reviewing).
  - **Jiang K**, Tan X. Towards *** Control (under double-blind reviewing).
+
+Hobbies
+======
+Fitness, Food, Traveling
