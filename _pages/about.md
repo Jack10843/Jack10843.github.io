@@ -49,9 +49,10 @@ Talks
 ======
 Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing)
 
-Academic Activities
+Academic & Working Activities
 ======
  - Reviewer of ICME 2025.
+ - Teaching Assistant of "Machine learning and its applications" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
 
 Hobbies
 ======
