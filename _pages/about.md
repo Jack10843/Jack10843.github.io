@@ -52,7 +52,7 @@ Offline reinforcement learning from non-expert data via state-supported boostrap
 Academic & Working Activities
 ======
  - Reviewer of ICME 2025.
- - Teaching Assistant of "Machine learning and its applications" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
+ - Teaching Assistant of "Machine learning and its applications 2023" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
 
 Hobbies
 ======
