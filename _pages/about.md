@@ -21,10 +21,9 @@ Education
 
 Research Interests
 ======
- - Offline reinforcement learning
- - Reinforcement learning
- - (Robust & Generalizable) Machine learning
- - Computer vision
+ - (Robust & Generalizable & Safe & Offline) Reinforcement learning
+ - Generative models for long-horizon planning
+ - Cross-domain classification (Videos & Image)
 
 Publications
 ======
