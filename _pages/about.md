@@ -48,6 +48,10 @@ Talks
 ======
 Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing)
 
+Fundings
+======
+April 2025 - October 2025, Short Visit Program, Nanjing University of Aeronautics and Astronautics (No.241206DF16).
+
 Academic & Working Activities
 ======
  - Reviewer of ICME 2025.
