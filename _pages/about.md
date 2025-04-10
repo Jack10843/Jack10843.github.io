@@ -36,7 +36,7 @@ Project Experiecne
 ======
  - A Research on Offline Reinforcement Learning Methods and Theories on Complex Real-world Scenarios (National Natural Science Foundation of China, No.6247072715, Leader: [Xiaoyang Tan](https://parnec.nuaa.edu.cn/xtan/)).
 
-Preprints & Under Review
+Preprints & Under Review (†:Equal Contribution)
 ======
  - **Jiang K**, Jiang W, Yao L, Tan X. [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719).
  - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
