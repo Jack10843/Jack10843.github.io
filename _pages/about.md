@@ -54,6 +54,7 @@ April 2025 - October 2025, Short Visit Program, Nanjing University of Aeronautic
 
 Academic & Working Activities
 ======
+ - Reviewer of NeurIPS 2025.
  - Reviewer of ICME 2025.
  - Teaching Assistant of "Machine learning and its applications 2023" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
 
