@@ -47,12 +47,12 @@ Preprints & Under Review (†:Equal Contribution)
 
 Talks
 ======
-Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Siminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html))
-Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing)
+ - Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Siminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html))
+ - Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing)
 
 Fundings
 ======
-April 2025 - October 2025, Short Visit Program, Nanjing University of Aeronautics and Astronautics (No.241206DF16).
+ - April 2025 - October 2025, Short Visit Program, Nanjing University of Aeronautics and Astronautics (No.241206DF16).
 
 Academic & Working Activities
 ======
