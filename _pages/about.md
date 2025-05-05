@@ -9,7 +9,6 @@ redirect_from:
 
 News
 ======
- - 28 April, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) was rejected by the International Joint Conference on Artificial Intelligence (IJCAI) 2025. This occurred even though the meta-review recommended 'Accept', and unfortunately, no justification accompanied the final rejection decision. Given this experience, alongside previous ones, I have reservations about submitting to IJCAI in the future.
  - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), [The University of Osaka](https://www.osaka-u.ac.jp/en). My academic advisor here is Prof. [Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/index.html).
  - 11 April, 2025: I was invited as a Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025).
  - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment]() has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
@@ -64,3 +63,7 @@ Academic & Working Activities
 Hobbies
 ======
 Fitness, Food, Traveling
+
+Notifications
+======
+ - 28 April, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) was rejected by the International Joint Conference on Artificial Intelligence (IJCAI) 2025. This occurred even though the meta-review recommended 'Accept', and unfortunately, no justification accompanied the final rejection decision. Given this experience, alongside previous ones, I have reservations about submitting to IJCAI in the future.
