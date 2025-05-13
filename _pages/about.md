@@ -9,7 +9,7 @@ redirect_from:
 
 News
 ======
- - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/). My advisor here is [Professor Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
+ - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/). My advisor here is [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
  - 11 April, 2025: I was invited as a Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025).
  - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment]() has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
  - 25 September, 2023: Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf) has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
