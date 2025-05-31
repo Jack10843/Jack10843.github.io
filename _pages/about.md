@@ -11,7 +11,7 @@ News
 ======
  - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/). My advisor here is [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
  - 11 April, 2025: I was invited as a Reviewer for [NeurIPS 2025](https://neurips.cc/Conferences/2025).
- - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment]() has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
+ - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment](https://arxiv.org/abs/2505.20653) has been accepted <span style="color:red">(Oral)</span> by *IEEE International Conference on Multimedia & Expo (ICME)* 2025.
  - 25 September, 2023: Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf) has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
 
 Education
@@ -42,7 +42,7 @@ Preprints & Under Review (†:Equal Contribution)
  - **Jiang K**, Jiang W, Yao L, Tan X. [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719).
  - **†Jiang K**, †Jiang W, Tan X. [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503).
  - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
- - †Qiu L, **†Jiang K**, Tan X. Contrastive Desensitization Learning for Cross Domain Face Forgery Detection.
+ - †Qiu L, **†Jiang K**, Tan X. [Contrastive Desensitization Learning for Cross Domain Face Forgery Detection](https://arxiv.org/abs/2505.20675).
  - **Jiang K**, Tan X. Towards *** Control (under double-blind review).
 
 Talks
