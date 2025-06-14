@@ -55,8 +55,7 @@ Fundings
 
 Academic & Working Activities
 ======
- - Reviewer of NeurIPS 2025.
- - Reviewer of ICME 2025.
+ - Reviewer of international conferences, including NeurIPS, ICME, ICLR.
  - Teaching Assistant of "Machine learning and its applications 2023" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
 
 Hobbies
