@@ -28,6 +28,7 @@ Research Interests
 
 Publications
 ======
+ - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.
  - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, 2025.
  - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2024, 508-522.
  - **Jiang K**, Yao J, Tan X. Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning. *Advances in Neural Information Processing Systems (NeurIPS)*, 2023, 36.
@@ -43,7 +44,6 @@ Preprints & Under Review (†:Equal Contribution)
  - **†Jiang K**, †Jiang W, Tan X. [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503).
  - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
  - †Qiu L, **†Jiang K**, Tan X. [Contrastive Desensitization Learning for Cross Domain Face Forgery Detection](https://arxiv.org/abs/2505.20675).
- - **Jiang K**, Tan X. Towards *** Control (under double-blind review).
 
 Talks
 ======
