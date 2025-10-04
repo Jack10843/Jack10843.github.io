@@ -47,6 +47,7 @@ Preprints & Under Review (†:Equal Contribution)
 
 Talks
 ======
+ - Reliable Long-Horizon Planning Based on Diffusion Model for Offline Reinforcement Learning. (Jul, 2025, Personal Siminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), Osaka University, Japan)
  - Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Siminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), Osaka University, Japan)
  - Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing, China)
 
