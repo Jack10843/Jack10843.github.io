@@ -9,6 +9,7 @@ redirect_from:
 
 News
 ======
+ - 30 October, 2025: Our paper [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719) has been accepted by *Pattern Recognition*, Elsevier, as a regular paper.
  - 29 September, 2025: Our paper [Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control](https://doi.org/10.1109/TNNLS.2025.3616159) has been accepted by *IEEE Transactions on Neural Networks and Learning Systems* as a regular paper.
  - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/). My advisor here is [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
  - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment](https://arxiv.org/abs/2505.20653) has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025 <span style="color:red">(Oral)</span>.
@@ -28,6 +29,7 @@ Research Interests
 
 Publications
 ======
+ - **Jiang K**, Jiang W, Yao L, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[link](https://arxiv.org/abs/2504.01719).
  - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[link](https://doi.org/10.1109/TNNLS.2025.3616159)
  - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, 2025.[link](https://arxiv.org/abs/2505.20653)
  - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2024, 508-522.
@@ -40,7 +42,6 @@ Project Experiecne
 
 Preprints & Under Review (†:Equal Contribution)
 ======
- - **Jiang K**, Jiang W, Yao L, Tan X. [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719).
  - **†Jiang K**, †Jiang W, Tan X. [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503).
  - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
  - †Qiu L, **†Jiang K**, Tan X. [Contrastive Desensitization Learning for Cross Domain Face Forgery Detection](https://arxiv.org/abs/2505.20675).
