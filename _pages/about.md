@@ -32,7 +32,7 @@ Publications (†:Equal Contribution)
 ======
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[link](https://arxiv.org/abs/2505.00503).
  - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[link](https://arxiv.org/abs/2504.01719).
- - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[link](https://doi.org/10.1109/TNNLS.2025.3616159)
+ - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[link](https://doi.org/10.1109/TNNLS.2025.3616159)[code](https://github.com/Jack10843/LUC-master/)
  - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, <span style="color:red">(Oral)</span>, 2025.[link](https://arxiv.org/abs/2505.20653)
  - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2024, 508-522.
  - **Jiang K**, Yao J, Tan X. Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning. *Advances in Neural Information Processing Systems (NeurIPS)*, 2023, 36.[link](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf)
