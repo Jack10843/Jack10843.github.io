@@ -9,12 +9,12 @@ redirect_from:
 
 News
 ======
- - 8 November, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) has been accepted by *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026.
+ - 8 November, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) has been accepted by *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)*, Main Technical Track, 2026.
  - 29 October, 2025: Our paper [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719) has been accepted by *Pattern Recognition*, Elsevier, as a regular paper.
  - 29 September, 2025: Our paper [Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control](https://doi.org/10.1109/TNNLS.2025.3616159) has been accepted by *IEEE Transactions on Neural Networks and Learning Systems* as a regular paper.
  - From 14 April, 2025: I started working as a visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/). My advisor here is [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
  - 21 March, 2025: Our paper [RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment](https://arxiv.org/abs/2505.20653) has been accepted by *IEEE International Conference on Multimedia & Expo (ICME)* 2025 <span style="color:red">(Oral)</span>.
- - 25 September, 2023: Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf) has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
+ - 25 September, 2023: Our paper [Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf) has been accepted by *The 36th Annual Conference on Neural Information Processing Systems (NeurIPS)*, Main Track, 2023.
 
 Education
 ======
