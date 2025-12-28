@@ -51,7 +51,7 @@ Talks
 ======
  - Safe Data Augmentation for Robust Offline Reinforcement Learning. (Dec, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
  - Reliable Long-Horizon Planning Based on Diffusion Model for Offline Reinforcement Learning. (Jul, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
- - Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), Osaka University, Japan)
+ - Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
  - Offline reinforcement learning from non-expert data via state-supported boostrapping. (Nov, 2024, A3 Foresight Program, Beijing, China)
 
 Fundings
