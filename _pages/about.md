@@ -49,6 +49,7 @@ Preprints & Under Review (†:Equal Contribution)
 
 Talks
 ======
+ - Reinforcement Learning and Its Applications. (Jan, 2026, Invited Seminar, VeriSilicon, Chengdu, China)
  - Safe Data Augmentation for Robust Offline Reinforcement Learning. (Dec, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
  - Reliable Long-Horizon Planning Based on Diffusion Model for Offline Reinforcement Learning. (Jul, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
  - Application of Koopman Theory in Generalizable Offline Reinforcement Learning. (Jan, 2025, Personal Seminar, [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), The University of Osaka, Japan)
