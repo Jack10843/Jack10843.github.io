@@ -9,6 +9,7 @@ redirect_from:
 
 News
 ======
+ - 26 January, 2026: Our paper [Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance](https://openreview.net/forum?id=h3hG6EuqU2) has been accepted by *Transactions on Machine Learning Research (TMLR)*, as a regular paper.
  - 8 November, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) has been accepted by *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)*, Main Technical Track, 2026.
  - 29 October, 2025: Our paper [Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning](https://arxiv.org/abs/2504.01719) has been accepted by *Pattern Recognition*, Elsevier, as a regular paper.
  - 29 September, 2025: Our paper [Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control](https://doi.org/10.1109/TNNLS.2025.3616159) has been accepted by *IEEE Transactions on Neural Networks and Learning Systems* as a regular paper.
@@ -30,6 +31,7 @@ Research Interests
 
 Publications (†:Equal Contribution)
 ======
+ - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance.
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
  - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[\[link\]](https://authors.elsevier.com/a/1m5JS77nKsByF).
  - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[\[link\]](https://doi.org/10.1109/TNNLS.2025.3616159).
@@ -44,7 +46,6 @@ Project Experiecne
 
 Preprints & Under Review (†:Equal Contribution)
 ======
- - †Wang Z, **†Jiang K**, Tan X. Calibrating Diffuser for Long-horizon Planning in Offline RL.
  - †Qiu L, **†Jiang K**, Tan X. [Contrastive Desensitization Learning for Cross Domain Face Forgery Detection](https://arxiv.org/abs/2505.20675).
 
 Talks
