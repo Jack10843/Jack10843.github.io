@@ -31,7 +31,7 @@ Research Interests
 
 Publications (†:Equal Contribution)
 ======
- - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance.
+ - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
  - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[\[link\]](https://authors.elsevier.com/a/1m5JS77nKsByF).
  - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[\[link\]](https://doi.org/10.1109/TNNLS.2025.3616159).
