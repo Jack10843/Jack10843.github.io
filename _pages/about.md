@@ -32,8 +32,8 @@ Research Interests
 
 Publications (†:Equal Contribution)
 ======
- - Wang J, He P, **Jiang K**, Tan X. Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning.[\[link\]](https://openreview.net/forum?id=UAZCKdd4R7).
- - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
+ - Wang J, He P, **Jiang K**, Tan X. Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning.*The 14th International Conference on Learning Representations (ICLR)*, 2026, 14. [\[link\]](https://openreview.net/forum?id=UAZCKdd4R7).
+ - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance. *Transactions on Machine Learning Research (TMLR)*.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
  - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[\[link\]](https://authors.elsevier.com/a/1m5JS77nKsByF).
  - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[\[link\]](https://doi.org/10.1109/TNNLS.2025.3616159).
