@@ -65,7 +65,7 @@ Fundings
 Academic & Working Activities
 ======
  - Visiting researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) supervised by [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/), April 2025 - March 2026.
- - Reviewer of international conferences, including NeurIPS, ICLR, ICML, UAI, AAAI, ICME.
+ - Reviewer of international conferences, including NeurIPS, ICLR, ICML, UAI, AAAI, ICME, and journals, including Pattern Recognition.
  - Teaching Assistant of "Machine learning and its applications 2023" (by Professor Xiaoyang Tan) at Nanjing University of Aeronautics and Astronautics.
 
 Hobbies
