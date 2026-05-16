@@ -24,7 +24,7 @@ Research Interests
 ======
  - (Robust & Generalizable & Safe & Offline) Reinforcement learning
  - Generative models for long-horizon planning
- - Cross-domain classification (Videos & Image)
+ - Dynamical Systems
 
 Publications (†:Equal Contribution)
 ======
