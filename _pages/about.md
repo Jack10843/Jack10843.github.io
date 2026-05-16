@@ -22,9 +22,9 @@ Education
 
 Research Interests
 ======
- - (Robust & Generalizable & Safe & Offline) Reinforcement learning
  - Generative models for long-horizon planning
  - Dynamical Systems
+ - (Robust & Generalizable & Safe & Offline) Reinforcement learning
 
 Publications (†:Equal Contribution)
 ======
