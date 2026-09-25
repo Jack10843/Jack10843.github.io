@@ -9,7 +9,7 @@ redirect_from:
 
 News
 ======
- - 25 September, 2026: Two our papers are accepted by NeurIPS 2026.
+ - 25 September, 2026: Two our papers are accepted by *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, Main Track, 2026.
  - 26 January, 2026: Our paper [Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning](https://openreview.net/forum?id=UAZCKdd4R7) has been accepted by *The 14th International Conference on Learning Representations (ICLR)*, Main Track, 2026.
  - 26 January, 2026: Our paper [Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance](https://openreview.net/forum?id=h3hG6EuqU2) has been accepted by *Transactions on Machine Learning Research (TMLR)*, as a regular paper.
  - 8 November, 2025: Our paper [Variational OOD State Correction for Offline Reinforcement Learning](https://arxiv.org/abs/2505.00503) has been accepted by *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)*, Main Technical Track, 2026.
@@ -28,8 +28,8 @@ Research Interests
 
 Publications (†:Equal Contribution)
 ======
- - Jiang K, Jiang W, Kawahara Y, Tan X. Value-Rectified Distillation for Flow-based Offline Reinforcement Learning. *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
- - Jiang W, Jiang K, Wang J, Tan X. Variational Consequence-Driven Offline Reinforcement Learning. *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
+ - Jiang K, Jiang W, Kawahara Y, Tan X. Value-Rectified Distillation for Flow-based Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
+ - Jiang W, Jiang K, Wang J, Tan X. Variational Consequence-Driven Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
  - Wang J, He P, **Jiang K**, Tan X. Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning.*The 14th International Conference on Learning Representations (ICLR)*, 2026. [\[link\]](https://openreview.net/forum?id=UAZCKdd4R7).
  - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance. *Transactions on Machine Learning Research (TMLR)*, 2026.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
