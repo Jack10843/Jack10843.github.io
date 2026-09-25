@@ -22,7 +22,7 @@ Education
 
 Research Interests
 ======
- - Generative models for long-horizon planning
+ - Goal-Conditional Reinforcement Learning, Long-Horizon Planning
  - Dynamical Systems
  - (Robust & Generalizable & Safe & Offline) Reinforcement learning
 
