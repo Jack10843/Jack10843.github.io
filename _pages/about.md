@@ -18,7 +18,7 @@ Education
 ======
  - (B.Sc.) 2015.9-2019.6, School of computer science, Nanjing University of Information Science and Technology.
  - (M.Sc.) 2019.9-2022.4, College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Advisor: Prof. [Xiaoyang Tan](https://parnec.nuaa.edu.cn/xtan/).
- - (Ph.d. student) 2022.4-, College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Advisor: Prof. [Xiaoyang Tan](https://parnec.nuaa.edu.cn/xtan/).
+ - (Dr. of Engineering) 2022.4-2026.10, College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Advisor: Prof. [Xiaoyang Tan](https://parnec.nuaa.edu.cn/xtan/).
 
 Research Interests
 ======
@@ -26,18 +26,21 @@ Research Interests
  - Dynamical Systems
  - (Robust & Generalizable & Safe & Offline) Reinforcement learning
 
-Publications (†:Equal Contribution)
+Conference Publications (†:Equal Contribution)
 ======
  - **Jiang K**, Jiang W, Kawahara Y, Tan X. Value-Rectified Distillation for Flow-based Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
  - Jiang W, **Jiang K**, Wang J, Tan X. Variational Consequence-Driven Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
  - Wang J, He P, **Jiang K**, Tan X. Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning.*The 14th International Conference on Learning Representations (ICLR)*, 2026. [\[link\]](https://openreview.net/forum?id=UAZCKdd4R7).
- - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance. *Transactions on Machine Learning Research (TMLR)*, 2026.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
- - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[\[link\]](https://authors.elsevier.com/a/1m5JS77nKsByF).
- - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[\[link\]](https://doi.org/10.1109/TNNLS.2025.3616159).
  - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, <span style="color:red">(Oral)</span>, 2025.[\[link\]](https://arxiv.org/abs/2505.20653).
  - Qiu L, **Jiang K**, Tan X. Multi-level Distributional Discrepancy Enhancement for Cross Domain Face Forgery Detection. *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2024, 508-522.
  - **Jiang K**, Yao J, Tan X. Recovering from out-of-sample states via inverse dynamics in offline reinforcement learning. *Advances in Neural Information Processing Systems (NeurIPS)*, 2023, 36.[\[link\]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Paper-Conference.pdf).
+
+Journal Publications (†:Equal Contribution)
+======
+ - †Wang Z, **†Jiang K**, Tan X. Dynamics‑Aligned Diffusion Planning for Offline RL: A Unified Framework with Forward and Inverse Guidance. *Transactions on Machine Learning Research (TMLR)*, 2026.[\[link\]](https://openreview.net/forum?id=h3hG6EuqU2).
+ - **Jiang K**, Jiang W, Li Y, Tan X. Beyond Non-Expert Demonstrations: Outcome-Driven Action Constraint for Offline Reinforcement Learning. *Pattern Recognition*, 2025.[\[link\]](https://authors.elsevier.com/a/1m5JS77nKsByF).
+ - **Jiang K**, Li Y, Tan X. Towards Reliable Offline Reinforcement Learning via Lyapunov Uncertainty Control. *IEEE Transactions on Neural Networks and Learning Systems*, 2025.[\[link\]](https://doi.org/10.1109/TNNLS.2025.3616159).
  - Shen J, **Jiang K**, Tax X. Boundary Data Augmentation for Offline Reinforcement Learning. *ZTE Communications*, 2023, 21(3): 29.
 
 Project Experiecne
