@@ -29,7 +29,7 @@ Research Interests
 Conference Publications (†:Equal Contribution)
 ======
  - **Jiang K**, Jiang W, Kawahara Y, Tan X. Value-Rectified Distillation for Flow-based Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026. [\[link\]](https://arxiv.org/abs/2610.29075).
- - Jiang W, **Jiang K**, Wang J, Tan X. Variational Consequence-Driven Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
+ - Jiang W, **Jiang K**, Wang J, Tan X. Variational Consequence-Driven Offline Reinforcement Learning. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2026. [\[link\]](https://arxiv.org/abs/2610.38238).
  - Wang J, He P, **Jiang K**, Tan X. Koopman-Assisted Trajectory Synthesis: A Data Augmentation Framework for Offline Imitation Learning.*The 14th International Conference on Learning Representations (ICLR)*, 2026. [\[link\]](https://openreview.net/forum?id=UAZCKdd4R7).
  - **†Jiang K**, †Jiang W, Tan X. Variational OOD State Correction for Offline Reinforcement Learning. *Annual AAAI Conference on Artificial Intelligence (AAAI)*, 2026, 40.[\[link\]](https://arxiv.org/abs/2505.00503).
  - Qiu L, **Jiang K**, Tan X. RoGA: Towards Generalizable Deepfake Detection through Robust Gradient Alignment. *IEEE International Conference on Multimedia & Expo (ICME)*, <span style="color:red">(Oral)</span>, 2025.[\[link\]](https://arxiv.org/abs/2505.20653).
