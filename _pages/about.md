@@ -9,7 +9,7 @@ redirect_from:
 
 News
 ======
- - 1 December, 2026: I will start to work as a postdoctoral researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) supervised by [Professor Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
+ - 1 December, 2026: I will start to work as a postdoctoral researcher at [Machine Learning & Systems Laboratory](https://mls.ist.osaka-u.ac.jp/en/member.html), [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/) supervised by Prof. [Yoshinobu Kawahara](https://mls.ist.osaka-u.ac.jp/en/~kawahara/).
  - 25 September, 2026: Two our papers have been accepted by *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS)*, Main Track, 2026.
 
 Education
